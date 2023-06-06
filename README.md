@@ -7,14 +7,14 @@ Arbitrage, often referred to as "arb'ing," is a technique employed in sports bet
 ### Understanding the Classic Gambler's Dilemma:
 Every bookmaker or platform has its own perspective on events and assigns odds accordingly. Placing opposing bets with a single bookmaker guarantees a loss. For instance, imagine betting on a tennis match with Draft Kings, where the odds are:
 - "Player A", 1.90 (implying a potential $1.90 return on a $1 bet) 
-- "Player B", 1.75 (implying a potential $1.75 return on a $1 bet).
+- "Player B", 1.75 (implying a potential $1.75 return on a $1 bet). <br />
 Wagering $100 on both outcomes would inevitably result in a loss, as the total expenditure of $200 outweighs the potential winnings of $190 or $175.
 
 ### Gambling = smoll brain:
 The core distinction between gambling and arbitrage lies in the varying odds offered by different bookmakers. 
 Here are some examples:
 - Draft Kings may assign odds of 1.80 for "Player A" and 2.15 for "Player B".
-- Implied probability = 1/1.80 + 1/2.15 = 1.02
+- Implied probability = 1/1.80 + 1/2.15 = 1.02 <br />
 Resulting in an implied probability of 102%, which indicates that betting is not advisable unless you enjoy losing money, since the total exceeds 100%.
 
 On the other hand, Bet99 might present odds of 1.68 and 2.30 for the same players, leading to an implied probability of 103%. In both scenarios, betting on both outcomes with the same bookmaker would lead to a loss, while selecting only one outcome would revert to gambling (remember the title of this section lol).
@@ -29,7 +29,7 @@ Sure, that's cool but how do I know how much money to bet?
 Simply based on the amount of money you want the outcome to be!
 Let's say your desired profit is $500:
 - $500/1.80 = $277.78 for "Player A"
-- $500/2.30 = $217.39 for "Player B"
+- $500/2.30 = $217.39 for "Player B" <br />
 Place a $277.78 bet on Draft Kings for "Player A" and a $217.39 bet on Bet99 for "Player B"
 
 No matter the match outcome, the total amount you wagered is $495.17, and you will win $500!
@@ -49,6 +49,6 @@ Note : In sports betting, odds are commonly expressed in numerical formats such 
 1. Don't gamble.
 2. Some bookmakers will limit the amout you can bet, which can mess your hedge.
 3. You will eventually get banned by the casinos.
-
-
+<br />
+<br />
 ## Happy money making hehe
