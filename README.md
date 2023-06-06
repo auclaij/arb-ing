@@ -22,7 +22,7 @@ Resulting in an implied probability of 102%, which indicates that betting is not
 On the other hand, Bet99 might present odds of 1.68 and 2.30 for the same players, leading to an implied probability of 103%. In both scenarios, betting on both outcomes with the same bookmaker would lead to a loss, while selecting only one outcome would revert to gambling (remember the title of this section lol).
 
 ### Arbitrage = big brain:
-To illustrate the concept of arbitrage, let's revisit the previous example with Draft Kings and Bet99. Draft Kings offers odds of 1.80 for "Player A" and 2.15 for "Player B," while Bet99 provides odds of 1.68 and 2.30, respectively. Here's where arbitrage comes into play:
+To illustrate the concept of arbitrage, let's revisit the previous example with Draft Kings and Bet99. Draft Kings offers odds of 1.80 for "Player A" and 2.15 for "Player B", while Bet99 provides odds of 1.68 and 2.30, respectively. Here's where arbitrage comes into play:
 - Place a bet on "Player A" to win with Draft Kings.
 - Simultaneously, bet on "Player B" to win with Bet99.
 - The implied probability, calculated as 1/1.80 + 1/2.30, amounts to 0.9903 (or 99%), indicating a profitable opportunity!
