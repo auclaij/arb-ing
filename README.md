@@ -7,7 +7,7 @@ Arbitrage, often referred to as "arb'ing," is a technique employed in sports bet
 ### Understanding the Classic Gambler's Dilemma:
 Every bookmaker or platform has its own perspective on events and assigns odds accordingly. Placing opposing bets with a single bookmaker guarantees a loss. For instance, imagine betting on a tennis match with Draft Kings, where the odds are:
 - "Player A", 1.90 (implying a potential $1.90 return on a $1 bet) 
-- "Player B", 1.75 (implying a potential $1.75 return on a $1 bet). 
+- "Player B", 1.75 (implying a potential $1.75 return on a $1 bet).
 Wagering $100 on both outcomes would inevitably result in a loss, as the total expenditure of $200 outweighs the potential winnings of $190 or $175.
 
 ### Gambling = smoll brain:
