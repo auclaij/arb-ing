@@ -46,8 +46,9 @@ Note : In sports betting, odds are commonly expressed in numerical formats such 
 - +130: Conversely, this representation implies that by betting $100, the bettor could potentially earn a profit of $130. The total amount received, including the initial wager, would be $230.
 
 ### Reminders/Warnings:
-Don't gamble.
-You will eventually get banned by the casinos.
+1. Don't gamble.
+2. Some bookmakers will limit the amout you can bet, which can mess your hedge.
+3. You will eventually get banned by the casinos.
 
 
 ## Happy money making hehe
