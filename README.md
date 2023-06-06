@@ -52,6 +52,5 @@ Note : In sports betting, odds are commonly expressed in numerical formats such 
 1. Don't gamble.
 2. Some bookmakers will limit the amout you can bet, which can mess up your hedged bet or profit.
 3. You will eventually get banned by the casinos.
-<br />
-<br />
+
 ## Happy money making hehe
