@@ -7,15 +7,15 @@ Arbitrage, often referred to as "arb'ing," is a technique employed in sports bet
 ### Understanding the Classic Gambler's Dilemma:
 Every bookmaker or platform has its own perspective on events and assigns odds accordingly. Placing opposing bets with a single bookmaker guarantees a loss. For instance, imagine betting on a tennis match with Draft Kings, where the odds are:
 - "Player A", 1.90 (implying a potential $1.90 return on a $1 bet) 
-- "Player B", 1.75 (implying a potential $1.75 return on a $1 bet).\
+- "Player B", 1.75 (implying a potential $1.75 return on a $1 bet)
 
 Wagering $100 on both outcomes would inevitably result in a loss, as the total expenditure of $200 outweighs the potential winnings of $190 or $175.
 
 ### Gambling = smoll brain:
 The core distinction between gambling and arbitrage lies in the varying odds offered by different bookmakers. 
 Here are some examples:
-- Draft Kings may assign odds of 1.80 for "Player A" and 2.15 for "Player B".
-- Implied probability = 1/1.80 + 1/2.15 = 1.02\
+- Draft Kings may assign odds of 1.80 for "Player A" and 2.15 for "Player B"
+- Implied probability = 1/1.80 + 1/2.15 = 1.02
 
 Resulting in an implied probability of 102%, which indicates that betting is not advisable unless you enjoy losing money, since the total exceeds 100%.
 
@@ -31,7 +31,7 @@ Sure, that's cool but how do I know how much money to bet?
 Simply based on the amount of money you want the outcome to be!
 Let's say your desired profit is $500:
 - $500/1.80 = $277.78 for "Player A"
-- $500/2.30 = $217.39 for "Player B"\
+- $500/2.30 = $217.39 for "Player B"
 
 Place a $277.78 bet on Draft Kings for "Player A" and a $217.39 bet on Bet99 for "Player B"
 
