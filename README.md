@@ -35,7 +35,7 @@ Place a $277.78 bet on Draft Kings for "Player A" and a $217.39 bet on Bet99 for
 No matter the match outcome, the total amount you wagered is $495.17, and you will win $500!
 Consequently, a profit of approximately $5, equivalent to 1%, is attained.
 
-![alt text]([http://url/to/img.png](https://github.com/auclaij/arb-ing/blob/main/arbing-visual.PNG))
+![](https://github.com/auclaij/arb-ing/blob/main/arbing-visual.PNG)
 
  
 ### Identifying discrepancies and finding opportunities:
